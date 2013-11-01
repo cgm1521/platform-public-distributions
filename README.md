@@ -1,7 +1,7 @@
 eXo Platform Public Distributions
 =================================
 
-How to build ?
+How to build ??
 --------------
 
 **Pre-requisite** : Apache Maven >= 3.0.4
